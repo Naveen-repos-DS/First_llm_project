@@ -1,1 +1,3 @@
 flask
+Transformers
+torch
